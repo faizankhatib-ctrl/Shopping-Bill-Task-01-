@@ -1,6 +1,6 @@
 """
 Task 01: Shopping Bill — GST First, Discount After
-Kiran Academy - Java and Python Programming Internship
+Kiran Academy - Python Programming Internship
 
 Description:
 Calculates the shopping bill for five items categorized as:

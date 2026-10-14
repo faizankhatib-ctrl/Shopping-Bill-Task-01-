@@ -10,21 +10,11 @@ env/
 venv/
 ENV/
 
-# Java compiled class files
-*.class
-*.jar
-*.war
-*.ear
-bin/
-
 # IDE and Editor configurations
 .idea/
 .vscode/
 *.iml
-.project
-.classpath
-.settings/
 
-# OS generated files
+# Operating System files
 .DS_Store
 Thumbs.db
